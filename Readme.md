@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DeletedObjectsAuditInfoViewController.cs](./CS/WinSolution.Module.Win/DeletedObjectsAuditInfoViewController.cs) (VB: [DeletedObjectsAuditInfoViewController.vb](./VB/WinSolution.Module.Win/DeletedObjectsAuditInfoViewController.vb))
+* [WinApplication.cs](./CS/WinSolution.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/WinSolution.Win/WinApplication.vb))
+<!-- default file list end -->
 # How to display audit info for deleted objects.
 
 
